@@ -15,4 +15,7 @@ ad.uib.es##[href^="https://ad.uib.es/estudis1920/admin/tool/policy/viewall.php"]
 
 ! Eliminar hover de asignaturas
 ad.uib.es##li.custom_course_menu_course > .scrollable.courselist_course > span:hover:style(left: 0% !important)
+
+! Arreglado el scroll lateral en las asignaturas
+ad.uib.es##ul.breadcrumb li::after
 !--------------------------------------------------------------------------------------------------------------
