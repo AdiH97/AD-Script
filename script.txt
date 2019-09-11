@@ -1,7 +1,21 @@
-! 11/9/2019 https://ad.uib.es
+! *** Aula digital ***
+!--------------------------------------------------------------------------------------------------------------
+
+! Eliminación de publicidad
 ad.uib.es##.fpwonderbox
+
+! Padding
 ad.uib.es##.card-body > div.d-flex:nth-of-type(1):style(margin-left:1.5% !important)
 ad.uib.es##.flex-wrap.d-flex:style(margin-left: 1.5% !important)
+
+! Eliminación de enlaces inútiles
 ad.uib.es##[href="https://ad.uib.es/estudis1920/admin/tool/dataprivacy/summary.php"]
 ad.uib.es##[href^="https://download.moodle.org/mobile"]
 ad.uib.es##[href^="https://ad.uib.es/estudis1920/admin/tool/policy/viewall.php"]
+
+! Eliminar hover de asignaturas
+ad.uib.es##li.custom_course_menu_course > .scrollable.courselist_course > span:hover:style(left: 0% !important)
+
+! Arreglado el scroll lateral en las asignaturas
+ad.uib.es##ul.breadcrumb li::after
+!--------------------------------------------------------------------------------------------------------------
