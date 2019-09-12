@@ -7,7 +7,7 @@ Script para bloquear las partes molestas de la área personal.
     - [Google Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=es)
     - [Firefox](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)
 2. Pulsar sobre el icono de uBlock Origin.
-3. Pulsar sobre el botón _Abrir panel de control_ <img src="https://github.com/ladjs/font-awesome-assets/blob/master/media/rainbow/sliders.svg" width="2%">.
+3. Pulsar sobre el botón _Abrir panel de control_ <img src="https://github.com/mpolaczyk00/AD-Script/blob/master/path5112.png" width="2%">.
 4. Ir a la pestaña _Mis filtros_.
 5. Pulsar sobre el botón _Importar o anexar_.
 6. Seleccionar el fichero descargado.
